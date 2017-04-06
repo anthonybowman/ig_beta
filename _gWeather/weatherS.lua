@@ -3,10 +3,10 @@
 	Project owner:		Krumpli2, Thug
 	Project name: 		internalGaming
 	Developers:   		Scott, Krumpli2
-	Version:    		v1.0 Open Source
+	Version:    		v1.0
 	Status:     		Stable release
 ********************************************************
---]] 
+--]]
 
 local weatherNameToGTA = {
 	["Haze"] = math.random(12,15),
