@@ -10,7 +10,7 @@
 
 mysqlSetteings = {
 	passwordPrefix = "INTERNALGAMING@2017",
-	passwordEncodeType = "sha1",
+	passwordEncode = "sha1",
 }
 
 defaultSettings = {
