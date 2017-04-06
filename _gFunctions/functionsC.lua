@@ -4,7 +4,7 @@
 	Project name: 		internalGaming
 	Developers:   		Czakó Csaba
 	Version:    		v1.0 Open Source
-	Status:     		Stable release
+	Status:      		Stable release
 ********************************************************
 --]]
 
