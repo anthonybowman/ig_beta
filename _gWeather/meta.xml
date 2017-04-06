@@ -1,0 +1,5 @@
+<meta>
+	<info author="Czakó Csaba" type="script"/>
+	
+	<script src="weatherS.lua" type="server" />
+</meta>
