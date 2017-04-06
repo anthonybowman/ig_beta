@@ -1,0 +1,5 @@
+<meta>
+	<info author="Czakó Csaba" type="script"/>
+
+	<script type="server" src="realtimeS.lua"/>
+</meta>
