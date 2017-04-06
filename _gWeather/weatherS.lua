@@ -6,7 +6,7 @@
 	Version:    		v1.0 Open Source
 	Status:     		Stable release
 ********************************************************
---]]
+--]] 
 
 local weatherNameToGTA = {
 	["Haze"] = math.random(12,15),
