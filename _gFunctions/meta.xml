@@ -1,0 +1,15 @@
+<meta>
+	<info author="Czakó Csaba" type="script"/>
+	
+	<script type="server" src="functionsS.lua"/>
+	<script type="shared" src="functionsG.lua"/>
+	<script type="client" src="functionsC.lua"/>
+	
+	<export function="getDefaultSettings" type="shared"/>
+	<export function="isInBox" type="shared"/>
+	<export function="passwordChange" type="shared"/>
+	<export function="findPlayer" type="shared"/>
+	<export function="passwordEncode" type="shared"/>
+	<export function="clientChatClear" type="client"/>
+	<export function="serverChatClear" type="server"/>
+</meta>
