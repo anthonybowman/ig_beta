@@ -2,7 +2,7 @@
 *******************************************************
 	Project owner:		Krumpli2, Thug
 	Project name: 		internalGaming
-	Developers:   		Scott, Krumpli2
+	Developers:   		Anthony, Krumpli2
 	Version:    		v1.0
 	Status:     		Stable release
 ********************************************************
