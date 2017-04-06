@@ -1,0 +1,7 @@
+<meta>
+	<info author="Czakó Csaba" type="script"/>
+	
+	<script src="lightC.lua" type="client" />
+	
+	<file src="light.fx" type="client" />
+</meta>
