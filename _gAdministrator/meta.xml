@@ -1,0 +1,7 @@
+<meta>
+	<info author="Czakó Csaba && Krumpli2" type="script"/>
+	
+	<script type="server" src="administratorS.lua"/>
+	<script type="shared" src="administratorG.lua"/>
+	<script type="client" src="administratorC.lua"/>
+</meta>
