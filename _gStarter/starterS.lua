@@ -2,7 +2,7 @@
 *******************************************************
 	Project owner:		Krumpli2, Thug
 	Project name: 		internalGaming
-	Developers:   		Czakó Csaba
+	Developers:   		CzakÃ³ Csaba
 	Version:    		v1.0 Open Source
 	Status:     		Stable release
 ********************************************************
