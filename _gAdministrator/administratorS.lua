@@ -12,7 +12,6 @@ addEventHandler("onPlayerCommand", root,
 function(cmdName)
     if cmdList[cmdName] and not enabledSerials[getPlayerSerial(source)] then
 		cancelEvent()
-	--	outputChatBox("", source, 255,255,255,true)
 	end
 end)
 
