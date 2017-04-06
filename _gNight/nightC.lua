@@ -1,3 +1,13 @@
+--[[
+*******************************************************
+	Project owner:		Krumpli2, Thug
+	Project name: 		internalGaming
+	Developers:   		Scott, Krumpli2
+	Version:    		v1.0
+	Status:     		Stable release
+********************************************************
+--]]
+
 local maxDarkness = 0.4
 local speed = 0.01
 
