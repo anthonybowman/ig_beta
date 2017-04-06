@@ -8,17 +8,15 @@
 ********************************************************
 --]]
 
-addEventHandler("onPlayerCommand", root,
-function(cmdName)
+addEventHandler("onPlayerCommand", root, function(cmdName)
     if cmdList[cmdName] and not enabledSerials[getPlayerSerial(source)] then
 		cancelEvent()
 	end
 end)
 
-function adminFly(playerSource, commandName)
+addCommandHandler("fly", function(playerSource, cmdName)
 	if tonumber(getElementData(playerSource, "_character:adminLevel")) >= 7 then
 		triggerClientEvent(playerSource, "onClientFlyToggle", playerSource)
 	end
-end
-addCommandHandler("fly", fly)
+end)
 
