@@ -1,0 +1,8 @@
+<meta>
+	<info author="Czakó Csaba" type="script"/>
+	
+	<script type="client" src="nightC.lua"/>
+	
+	<file src="mta-helper.fx"/>
+	<file src="night.fx"/>
+</meta>
