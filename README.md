@@ -1,4 +1,4 @@
-# **internalGaming**
+# internalGaming
 
 ### Project owners: Thug, Krumpli2
 ### Developers: Anthony, Krumpli2
