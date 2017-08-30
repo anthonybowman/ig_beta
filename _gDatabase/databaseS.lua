@@ -13,7 +13,7 @@ local dbUser = ""
 local dbPass = ""
 local dbName = ""
 
-local sqlConnection = nil
+local sqlHandler = nil
 
 function enabledConnection(res)
 	sqlHandler = dbConnect( "mysql", "dbname="..dbName..";host="..dbHost, dbUser, dbPass, "charset=utf8" )
